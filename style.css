@@ -1,0 +1,29 @@
+* {
+	margin: 0px;
+	padding: 0px;
+    }
+
+body {
+	margin: 75px;
+	padding: 0px;
+	height: 100%;
+	background-color: #ffffff;
+
+	/*background-image:url("images/background.jpg");*/
+	background-repeat: repeat;
+	background-attachment:fixed;
+
+	color: #b3cccc;
+	font-family: "Trebuchet MS", Trebuchet, Verdana, Arial;
+	/*font-family: tahoma, arial, sans-serif;*/
+	font-size: 10px;
+}
+
+a {
+	color: gray;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: black;
+}
