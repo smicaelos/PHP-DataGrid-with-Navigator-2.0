@@ -1,6 +1,6 @@
 # PHP-DataGrid-with-Navigator-2.0
 
-PHP DataGrid with Navigator 2.0 is a PHP 3 and 5 datagrid with navigator
+PHP DataGrid with Navigator 2.0 is a PHP 3 datagrid with navigator
 to browse datagrid pages. It performes querys in MySQL format.
 
 Datagrid Nav 2.0 displays your querys in a configurable datagrid table.
